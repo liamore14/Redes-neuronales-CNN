@@ -1,4 +1,6 @@
-#Red Neuronal Convolucional CNN - para deteccion de animales
+# Red Neuronal Convolucional CNN - para deteccion de animales-
+
+
 Implementacion de una CNN capaz de detectar entre perros gatos y pericos.
 
 
@@ -10,6 +12,6 @@ Pasos realizados:
 4. Validar del modelo
 6. Predecir imagenes de prueba para evaluar resultados
 
-
+ ![Resultados obtenidos:](resultados.PNG)
  
  
